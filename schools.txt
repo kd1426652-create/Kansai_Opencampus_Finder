@@ -1,0 +1,17 @@
+================================================================================
+Kansai IT Open Campus Finder - Data File Format Guide
+================================================================================
+フォーマット: ID|学校名|場所|カテゴリ|オープンキャンパスURL
+ Format: ID|School Name|Location|Category|Open Campus URL
+ပုံစံ: ID|ကျောင်းအမည်|တည်နေရာ|အမျိုးအစား|Open Campus URL
+
+※ Note for Members:
+- This is sample data. Please add more real data during our meeting/development.
+- Each line represents one school. Separate attributes using the '|' delimiter.
+================================================================================
+
+1|ECC College of Computer|Osaka|IT & Game|https://www.ecc.ac.jp/opencampus/
+2|HAL Osaka|Osaka|IT & Design|https://www.hal.ac.jp/osaka/opencampus
+3|Kobe Institute of Computing|Kobe|IT & AI|https://www.kic.ac.jp/
+4|Kyoto Computer Gakuin|Kyoto|IT & Software|https://www.kcg.ac.jp/
+5|Osaka Information Computer College|Osaka|IT & Network|https://www.oic.ac.jp/
